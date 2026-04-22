@@ -1,0 +1,15 @@
+opencv-python
+numpy
+mediapipe==0.10.9
+ultralytics
+torch
+torchvision
+pillow
+matplotlib
+scipy
+requests
+pyyaml
+tqdm
+psutil
+sounddevice
+playsound

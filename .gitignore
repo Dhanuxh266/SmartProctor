@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+build_main/
+dist/
+logs/
+*.log
+*.spec
+
+# model files (optional - your choice)
+*.pt
