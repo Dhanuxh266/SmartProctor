@@ -38,8 +38,22 @@ python main.py
 ```
 
 ## 📦 Model File
+YOLO Model Setup
 
-Download yolov8n.pt from official YOLO site
+This project uses YOLOv8 for object detection.
+
+⚠️ The model file is not included in the repository due to size constraints.
+
+### Download the model:
+
+* Visit: https://github.com/ultralytics/ultralytics
+* Or download `yolov8n.pt` directly
+
+### Place it here:
+```
+SmartProctor/yolov8n.pt
+```
+
 
 ## 👨‍💻 Author
 
